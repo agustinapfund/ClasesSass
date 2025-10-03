@@ -6,6 +6,7 @@ body header {
 }
 body header img {
   width: 100px;
+  border-radius: 50%;
 }
 body main section ul li span {
   font-style: italic;
